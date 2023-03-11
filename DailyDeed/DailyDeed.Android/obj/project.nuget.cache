@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "McIjeav52envextqpzBgtwsYu7N9IlJm6l17HHivYsI+Kei8OJRvG2wI2ILEwzHPrBIny9qnuPbBPg1BwtzoXQ==",
+  "dgSpecHash": "7RnR2A/n6322/rhUA7rLt0vZ47JQkpo4lJpLZCT6al4jAbcN3ifBHRzKBvKTyOyEOtQZxyOMPWnMVmeECjUCSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shimoda\\source\\repos\\DailyDeed\\DailyDeed\\DailyDeed.Android\\DailyDeed.Android.csproj",
+  "projectFilePath": "C:\\Users\\Shimoda\\source\\repos\\DalyDeed-repo\\DailyDeed\\DailyDeed.Android\\DailyDeed.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shimoda\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Shimoda\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

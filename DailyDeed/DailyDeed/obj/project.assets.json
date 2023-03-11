@@ -547,11 +547,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shimoda\\source\\repos\\DailyDeed\\DailyDeed\\DailyDeed\\DailyDeed.csproj",
+      "projectUniqueName": "C:\\Users\\Shimoda\\source\\repos\\DalyDeed-repo\\DailyDeed\\DailyDeed\\DailyDeed.csproj",
       "projectName": "DailyDeed",
-      "projectPath": "C:\\Users\\Shimoda\\source\\repos\\DailyDeed\\DailyDeed\\DailyDeed\\DailyDeed.csproj",
+      "projectPath": "C:\\Users\\Shimoda\\source\\repos\\DalyDeed-repo\\DailyDeed\\DailyDeed\\DailyDeed.csproj",
       "packagesPath": "C:\\Users\\Shimoda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shimoda\\source\\repos\\DailyDeed\\DailyDeed\\DailyDeed\\obj\\",
+      "outputPath": "C:\\Users\\Shimoda\\source\\repos\\DalyDeed-repo\\DailyDeed\\DailyDeed\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

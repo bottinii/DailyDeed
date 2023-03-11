@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A781HOQE6aAYTqKDeOI8sLUy7ZeBuR9Xcg2QSRQzTvJsy2lbdkI1Yrz06SmbG+pYJjhxstlBVN8GFY6GwCSnNw==",
+  "dgSpecHash": "oS8vCP6GGYqppQS++Pq8orAy2UP/E0BxI0Ks3kfdcTG3/+rg02RD35x1BzlhsjZtS7zn07QeixFq/euqgTfvzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shimoda\\source\\repos\\DailyDeed\\DailyDeed\\DailyDeed.iOS\\DailyDeed.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Shimoda\\source\\repos\\DalyDeed-repo\\DailyDeed\\DailyDeed.iOS\\DailyDeed.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shimoda\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Shimoda\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",

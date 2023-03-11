@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shimoda\\source\\repos\\DailyDeed\\DailyDeed\\DailyDeed.Android\\DailyDeed.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Shimoda\\source\\repos\\DalyDeed-repo\\DailyDeed\\DailyDeed.Android\\DailyDeed.Android.csproj",
       "projectName": "DailyDeed.Android",
-      "projectPath": "C:\\Users\\Shimoda\\source\\repos\\DailyDeed\\DailyDeed\\DailyDeed.Android\\DailyDeed.Android.csproj",
+      "projectPath": "C:\\Users\\Shimoda\\source\\repos\\DalyDeed-repo\\DailyDeed\\DailyDeed.Android\\DailyDeed.Android.csproj",
       "packagesPath": "C:\\Users\\Shimoda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shimoda\\source\\repos\\DailyDeed\\DailyDeed\\DailyDeed.Android\\obj\\",
+      "outputPath": "C:\\Users\\Shimoda\\source\\repos\\DalyDeed-repo\\DailyDeed\\DailyDeed.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\Shimoda\\source\\repos\\DailyDeed\\DailyDeed\\DailyDeed\\DailyDeed.csproj": {
-              "projectPath": "C:\\Users\\Shimoda\\source\\repos\\DailyDeed\\DailyDeed\\DailyDeed\\DailyDeed.csproj"
+            "C:\\Users\\Shimoda\\source\\repos\\DalyDeed-repo\\DailyDeed\\DailyDeed\\DailyDeed.csproj": {
+              "projectPath": "C:\\Users\\Shimoda\\source\\repos\\DalyDeed-repo\\DailyDeed\\DailyDeed\\DailyDeed.csproj"
             }
           }
         }

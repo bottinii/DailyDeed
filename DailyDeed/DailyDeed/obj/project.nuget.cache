@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h9z5sjxKQhtpMrO/v3FWtEhAkis5b317mff3bRppQlKqu7CktQ/JHW52Swlu9ES+sncQpuca5CsE1LjNBnFrNQ==",
+  "dgSpecHash": "rPs0hrR8BMyYHyLVHpBZBoy44KDX9QbwuKny6P7mkAFTJ9zfR7SYd3J0lA3UKI8Z0v2MdMFuAVERl6dVvUDJlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shimoda\\source\\repos\\DailyDeed\\DailyDeed\\DailyDeed\\DailyDeed.csproj",
+  "projectFilePath": "C:\\Users\\Shimoda\\source\\repos\\DalyDeed-repo\\DailyDeed\\DailyDeed\\DailyDeed.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shimoda\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Shimoda\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

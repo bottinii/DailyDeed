@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sjAjHWGhN+yH2TojnS6AieYJLx21cFUeXHHVSgKi9YCOXlAkN6YK0SjOtCZQUp7DliyWwY9BWghavwSCmLNjsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\botti\\Documents\\GitHub\\Company-DailyDeed\\DailyDeed\\DailyDeed\\DailyDeed.iOS\\DailyDeed.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\botti\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\botti\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\botti\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

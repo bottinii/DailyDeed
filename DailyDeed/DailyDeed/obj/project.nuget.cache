@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "EIdUK88h57K7qP/okN08NYw1s7dy7c0rcOfdByibmmD/jNMk1Q8q4JNe7/KdBahWe+YvKrArl/M1WVMe98vCBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\botti\\Documents\\GitHub\\DailyDeed\\DailyDeed\\DailyDeed\\DailyDeed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\botti\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\botti\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\botti\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\botti\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\botti\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

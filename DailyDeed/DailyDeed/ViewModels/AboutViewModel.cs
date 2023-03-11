@@ -11,6 +11,8 @@ namespace DailyDeed.ViewModels
         {
             Title = "About";
             OpenWebCommand = new Command(async () => await Browser.OpenAsync("https://aka.ms/xamarin-quickstart"));
+
+            //Shell.Current.GoToAsync("//LoginPage");
         }
 
         public ICommand OpenWebCommand { get; }

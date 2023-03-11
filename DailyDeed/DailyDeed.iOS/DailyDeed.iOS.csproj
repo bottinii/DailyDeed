@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{7EF95DE6-5F47-47DD-B1A4-7E97DF16D97A}</ProjectGuid>
+    <ProjectGuid>{927DE76C-FFFD-435F-B4A7-384BA5B65E68}</ProjectGuid>
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{89a4fe7c-635d-49c9-8d8c-5cd363c0d68d}</TemplateGuid>
     <OutputType>Exe</OutputType>
@@ -138,7 +138,7 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\DailyDeed\DailyDeed.csproj">
-      <Project>{2B89E4D0-DB00-4E9A-9172-3EC28FD77F5F}</Project>
+      <Project>{A554AA9F-6CCE-4CE6-859B-100EB0F9E937}</Project>
       <Name>DailyDeed</Name>
     </ProjectReference>
   </ItemGroup>

@@ -1062,24 +1062,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\botti\\.nuget\\packages\\": {},
+    "C:\\Users\\Shimoda\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\botti\\Documents\\GitHub\\DailyDeed\\DailyDeed\\DailyDeed.iOS\\DailyDeed.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Shimoda\\source\\repos\\DailyDeed\\DailyDeed\\DailyDeed.iOS\\DailyDeed.iOS.csproj",
       "projectName": "DailyDeed.iOS",
-      "projectPath": "C:\\Users\\botti\\Documents\\GitHub\\DailyDeed\\DailyDeed\\DailyDeed.iOS\\DailyDeed.iOS.csproj",
-      "packagesPath": "C:\\Users\\botti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\botti\\Documents\\GitHub\\DailyDeed\\DailyDeed\\DailyDeed.iOS\\obj\\",
+      "projectPath": "C:\\Users\\Shimoda\\source\\repos\\DailyDeed\\DailyDeed\\DailyDeed.iOS\\DailyDeed.iOS.csproj",
+      "packagesPath": "C:\\Users\\Shimoda\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Shimoda\\source\\repos\\DailyDeed\\DailyDeed\\DailyDeed.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\botti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Shimoda\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1093,8 +1093,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\botti\\Documents\\GitHub\\DailyDeed\\DailyDeed\\DailyDeed\\DailyDeed.csproj": {
-              "projectPath": "C:\\Users\\botti\\Documents\\GitHub\\DailyDeed\\DailyDeed\\DailyDeed\\DailyDeed.csproj"
+            "C:\\Users\\Shimoda\\source\\repos\\DailyDeed\\DailyDeed\\DailyDeed\\DailyDeed.csproj": {
+              "projectPath": "C:\\Users\\Shimoda\\source\\repos\\DailyDeed\\DailyDeed\\DailyDeed\\DailyDeed.csproj"
             }
           }
         }
